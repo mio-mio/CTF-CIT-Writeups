@@ -6,4 +6,4 @@ CTF writeups
 - [Calculator](misc/calc.ipynb)
 
 ### OSINT
-- [Apizza](osint/apizza.md)
+- [Apizza](osint/apizza.ipynb)
