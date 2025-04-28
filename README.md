@@ -3,7 +3,7 @@ CTF writeups
 
 ## The Second Annual CTF@CIT
 ### Misc
-- [Calculator](misc/calculator.md)
+- [Calculator](misc/calc.ipynb)
 
 ### OSINT
 - [Apizza](osint/apizza.md)
