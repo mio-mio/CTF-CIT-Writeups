@@ -8,7 +8,7 @@ Please note that not all challenges are covered, and I plan to add more writeups
 **Date:** Fri, Apr 25th 2025, 21:00 UTC – Sun, Apr 27th 2025, 19:00 UTC
 
 ### Crypto
-- [Rotten]
+- [Rotten](crypto/rotten.ipynb)
 - [NerdEmoji]
 - [Very Rotten]
 
@@ -23,11 +23,12 @@ Please note that not all challenges are covered, and I plan to add more writeups
 - [Blank image](Steganography/blank.ipynb)
 - [I AM Steve]
 - [sw0906]
-- [Sorry, you're NOT a sigma!]
+- [Sorry, you're NOT a sigma!](Steganography/sorry.ipynb)
 - [Queen's Gambit]
 - [Dog Picture]
   
 ### Misc
+- [Robots](mis/robots.ipynb)
 - [Calculator](misc/calc.ipynb)
 
 ### OSINT
