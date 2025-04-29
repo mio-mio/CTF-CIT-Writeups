@@ -16,8 +16,8 @@
 
 ## Steganography
 - [Blank image](Steganography/blank.ipynb)
-- [I AM Steve]
-- [sw0906]
+- [I AM Steve](Steganography/steve.ipynb)
+- [sw0906](Steganography/sw0906.ipynb)
 - [Sorry, you're NOT a sigma!](Steganography/sorry.ipynb)
 - [Queen's Gambit]
 - [Dog Picture]
