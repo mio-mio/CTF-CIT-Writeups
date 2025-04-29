@@ -8,7 +8,7 @@
 - [Very Rotten]
 
 ## Forensics
-- [True CTF Love]
+- [True CTF Love](forensics/true.ipynb)
 
 ## Reverse Engineering
 - [Read Only]
