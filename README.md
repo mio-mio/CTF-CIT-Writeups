@@ -23,7 +23,7 @@
 - [Dog Picture](Steganography/dog.ipynb)
   
 ## Misc
-- [Robots](mis/robots.ipynb)
+- [Robots](misc/robots.ipynb)
 - [Calculator](misc/calc.ipynb)
 
 ## OSINT
