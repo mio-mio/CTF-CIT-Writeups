@@ -19,8 +19,8 @@
 - [I AM Steve](Steganography/steve.ipynb)
 - [sw0906](Steganography/sw0906.ipynb)
 - [Sorry, you're NOT a sigma!](Steganography/sorry.ipynb)
-- [Queen's Gambit]
-- [Dog Picture]
+- [Queen's Gambit](Steganography/queen.ipynb)
+- [Dog Picture](Steganography/dog.ipynb)
   
 ## Misc
 - [Robots](mis/robots.ipynb)
@@ -28,5 +28,3 @@
 
 ## OSINT
 - [Apizza](osint/apizza.ipynb)
-
-## Web
