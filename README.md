@@ -6,8 +6,10 @@
 - [Rotten](crypto/rotten.ipynb)
 - [NerdEmoji]
 - [Very Rotten]
-
+- [XOR]
+  
 ## Forensics
+- [Brainrot Quiz!]
 - [True CTF Love](forensics/true.ipynb)
 
 ## Reverse Engineering
