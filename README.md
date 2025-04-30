@@ -13,8 +13,8 @@
 - [True CTF Love](forensics/true.ipynb)
 
 ## Reverse Engineering
-- [Read Only]
-- [Ask Nicely]
+- [Read Only](reverse/read.ipynb)
+- [Ask Nicely](reverse/ask.ipynb)
 
 ## Steganography
 - [Blank image](Steganography/blank.ipynb)
