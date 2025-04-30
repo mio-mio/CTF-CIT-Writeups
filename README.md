@@ -5,8 +5,8 @@
 ## Crypto
 - [Rotten](crypto/rotten.ipynb)
 - [NerdEmoji]
-- [Very Rotten]
-- [XOR]
+- [Very Rotten](crypto/very_rotten.ipynb)
+- [XOR](crypto/xor.ipynb)
   
 ## Forensics
 - [Brainrot Quiz!]
