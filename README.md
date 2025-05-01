@@ -4,12 +4,12 @@
 
 ## Crypto
 - [Rotten](crypto/rotten.ipynb)
-- [NerdEmoji]
+- [NerdEmoji](crypto/nerd.ipynb)
 - [Very Rotten](crypto/very_rotten.ipynb)
 - [XOR](crypto/xor.ipynb)
   
 ## Forensics
-- [Brainrot Quiz!]
+- [Brainrot Quiz!](forensics/brain.ipynb)
 - [True CTF Love](forensics/true.ipynb)
 
 ## Reverse Engineering
