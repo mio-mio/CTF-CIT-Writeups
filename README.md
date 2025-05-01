@@ -4,7 +4,7 @@
 
 ## Crypto
 - [Rotten](crypto/rotten.ipynb)
-- [NerdEmoji](crypto/nerd.ipynb)
+- [NerdEmoji](crypto/emoji.ipynb)
 - [Very Rotten](crypto/very_rotten.ipynb)
 - [XOR](crypto/xor.ipynb)
   
